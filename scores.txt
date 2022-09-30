@@ -1,0 +1,6 @@
+Name: Mike
+Score: 2
+Name: Ted
+Score: 1
+Name: Bob
+Score: 6
